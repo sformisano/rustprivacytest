@@ -1,0 +1,8 @@
+[package]
+name = "libcrate"
+version = "0.1.0"
+authors = ["Salvatore Formisano <mail@salvatore.dev>"]
+edition = "2018"
+
+[lib]
+path = "lib.rs"
